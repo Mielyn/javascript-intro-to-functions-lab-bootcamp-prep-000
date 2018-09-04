@@ -1,5 +1,5 @@
-function shout(String) {
+function speak(){
+   function shout(String) {
   return String.toUpperCase()
 }
-
-function speak()
+}

@@ -1,6 +1,6 @@
 var uppercase, lowercase
 
-function shout(String){
+function shout(string){
   uppercase = string.toUpperCase();
   string = uppercase;
   return uppercase;
@@ -12,5 +12,6 @@ function whisper(string) {
   return lowercase;
 }
 
-function logShout(strun
-)
+function logShout(string){
+  
+}

@@ -13,4 +13,6 @@ function speak(){
    console.log(String);
   }
   
-  function logShout
+  function logShout(String){
+    console.log(String);
+  }

@@ -7,5 +7,8 @@ function shout(String){
 }
 
 function whisper(string) {
-  lowercase = string.toLower
+  lowercase = string.toLowerCase();
+  string = lowercase;
+  return lowercase;
 }
+

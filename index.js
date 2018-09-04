@@ -12,3 +12,5 @@ function speak(){
     return String.toLowerCase()
    console.log(String);
   }
+  
+  function logShout

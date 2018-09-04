@@ -5,7 +5,7 @@ function speak(){
 
  function shout(String) {
   return String.toUpperCase()
-  return String.toLowerCase()
+  console.log()
  }
  
  function whisper(String) {

@@ -5,10 +5,10 @@ function speak(){
 
  function shout(String) {
   return String.toUpperCase()
-  console.log()
+  console.log(String);
  }
  
  function whisper(String) {
     return String.toLowerCase()
-    return String.toUpperCase()
+   console.log(String);
   }

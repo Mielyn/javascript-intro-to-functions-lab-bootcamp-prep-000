@@ -1,6 +1,5 @@
 function speak(){
   
-  
 }
 
  function shout(String) {

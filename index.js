@@ -14,5 +14,5 @@ function speak(){
   }
   
   function logShout(String){
-    console.log(String);
+    console.log(' ${spy}');
   }

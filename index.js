@@ -18,7 +18,7 @@ function speak(){
   }
   
   function logWhisper(String) {
-    
+    return String.toLowerCase()
   }
   
   function sayHiToGrandma(String){

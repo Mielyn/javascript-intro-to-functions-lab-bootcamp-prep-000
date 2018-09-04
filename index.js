@@ -16,3 +16,11 @@ function speak(){
   function logShout(String){
     console.log();
   }
+  
+  function logWhisper(String) {
+    
+  }
+  
+  function sayHiToGrandma(String){
+    return String();
+  }
